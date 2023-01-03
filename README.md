@@ -3,7 +3,7 @@ This repository contains data & code that support the findings of the manuscript
 
 # Preprint on arXiv, https://arxiv.org/abs/2207.08888
 
-The data presented in this repository is a curated version of particle-resolved simulation data from different sources:
+# The data presented in this repository is a curated version of particle-resolved simulation data from the following sources:
 
 1. A. Seyed-Ahmadi and A. Wachs, Microstructure-informed probability-driven point-particle model for hydrodynamic forces and torques in particle-laden flows, Journal of Fluid Mechanics 900, A21 (2020).
 
